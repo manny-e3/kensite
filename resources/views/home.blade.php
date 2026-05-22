@@ -226,7 +226,7 @@
         }
 
         .cta-section {
-            background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("{{ asset('assets/img/relocation_bg.png') }}");
+            background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("{{ asset('assets/img/services/move.jpg') }}");
             background-size: cover;
             background-position: center;
             padding: 120px 0;
@@ -360,7 +360,7 @@
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="service-card-modern">
                         <div class="service-card-img">
-                            <img src="{{ asset('assets/img/relocation_bg.png') }}" alt="Relocation">
+                            <img src="{{ asset('assets/img/services/move.jpg') }}" alt="Relocation">
                         </div>
                         <div class="service-card-content">
                             <h3>Home Relocation</h3>

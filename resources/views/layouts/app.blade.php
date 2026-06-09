@@ -204,7 +204,7 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-mail-send'></i>
-                                    <a href="mailto:info@kenrelocationcomltd.com">info@kenrelocationcomltd.com</a>
+                                    <a href="mailto:info@kenrelocationcom">info@kenrelocationcom</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>

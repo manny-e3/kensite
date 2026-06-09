@@ -305,7 +305,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-img animate__animated animate__fadeInLeft">
-                        <img src="{{ asset('assets/img/hero_bg.png') }}" alt="About Ken Relocation" class="rounded shadow-lg">
+                        <img src="{{ asset('assets/img/warehousing_bg.png') }}" alt="About Ken Relocation" class="rounded shadow-lg">
                     </div>
                 </div>
                 <div class="col-lg-6">

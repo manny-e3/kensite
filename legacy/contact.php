@@ -118,7 +118,7 @@
                                 <ul>
                                     <li>
                                         <span>Mail:</span>
-                                        <a href="">info@kenrelocationcomltd.com</a>
+                                        <a href="">info@kenrelocation.com</a>
                                     </li>
                                     <li>
                                         <span>Gmail:</span>

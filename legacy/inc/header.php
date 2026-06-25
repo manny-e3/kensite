@@ -139,12 +139,12 @@
                                 </li>
                                 <li>
                                     <i class='flaticon-email'></i>
-                                    <span>Mail: <a href="">info@kenrelocationcomltd.com</a></span>
-                                    <span>Gmail: <a href="">kenrelocation@gmail.com</a></span>
+                                    <span>Mail: <a href="mailto:info@kenrelocation.com">info@kenrelocation.com</a></span>
+                                    <span>Gmail: <a href="mailto:kenrelocation@gmail.com">kenrelocation@gmail.com</a></span>
                                 </li>
                                 <li>
                                     <i class='flaticon-call'></i>
-                                    <span>Phone: <a href="">+2348153512680</a></span>
+                                    <span>Phone: <a href="tel:+2348153512680">+2348153512680</a></span>
                                     
                                 </li>
                             </ul>

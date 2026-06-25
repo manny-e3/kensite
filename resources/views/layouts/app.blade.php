@@ -121,7 +121,7 @@
                             </li>
                             <li>
                                 <i class='flaticon-email'></i>
-                                <span>Mail: <a href="mailto:info@kenrelocationcomltd.com">info@kenrelocationcomltd.com</a></span>
+                                <span>Mail: <a href="mailto:info@kenrelocation.com">info@kenrelocation.com</a></span>
                                 <span>Gmail: <a href="mailto:kenrelocation@gmail.com">kenrelocation@gmail.com</a></span>
                             </li>
                             <li>
@@ -204,7 +204,7 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-mail-send'></i>
-                                    <a href="mailto:info@kenrelocationcom">info@kenrelocationcom</a>
+                                    <a href="mailto:info@kenrelocation.com">info@kenrelocation.com</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>

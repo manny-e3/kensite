@@ -53,11 +53,11 @@
                                     </li>
                                     <li>
                                         <i class='bx bx-mail-send'></i>
-                                        <a href="">info@kenrelocationcomltd.com</a>
+                                        <a href="mailto:info@kenrelocation.com">info@kenrelocation.com</a>
                                     </li>
                                     <li>
                                         <i class='bx bx-phone-call'></i>
-                                        <a href="">+2348153512680</a>
+                                        <a href="tel:+2348153512680">+2348153512680</a>
                                     </li>
                                     <li>
                                          <i class="fa fa-whatsapp"></i><span style="color: white;">+2348153512680</span>

@@ -12,7 +12,7 @@
         }
 
         # FIX: Replace this email with recipient email
-        $mail_to = "info@kenrelocationcomltd.com";
+        $mail_to = "info@kenrelocation.com";
 
         # Sender Data
         $subject = 'Message from website';

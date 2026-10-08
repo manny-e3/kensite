@@ -245,7 +245,7 @@
     <div class="hero-section">
         <div class="container">
             <div class="hero-content animate__animated animate__fadeInLeft">
-                <h1>Global  & Seamless Relocation</h1>
+                <h1>Global Logistics & Seamless Relocation</h1>
                 <p>Ken Relocation delivers precision, safety, and speed for your most valuable shipments. From local moves to international freight, we handle the complexity so you can focus on the journey.</p>
                 <div class="hero-btn-group">
                     <a href="/contact" class="btn-premium">Get a Quote</a>
